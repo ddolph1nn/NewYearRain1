@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NewYearRain:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NewYearRain_jar</output-path>
+    <root id="archive" name="NewYearRain.jar">
+      <element id="module-output" name="NewYearRain" />
+    </root>
+  </artifact>
+</component>
